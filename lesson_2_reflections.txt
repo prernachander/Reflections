@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+.git metadata appears - you should do it if you want to save commits
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Allows you to add the files to be committed. If you only want to commit certain files and not the entire rep, this is good
